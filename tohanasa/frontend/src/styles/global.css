@@ -1,0 +1,12 @@
+/* Reset de base + variables */
+:root {
+    --primary: #2563eb;
+    --secondary: #1e40af;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+  }
+  
+  a { text-decoration: none; }
